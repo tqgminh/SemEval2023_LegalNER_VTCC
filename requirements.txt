@@ -1,0 +1,4 @@
+spacy
+bs4
+urllib3
+spacy-transformers
